@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/josepablo13/Documents/José Pablo/TEC/Data Structure Course/MergeSort/LeetCode",
+      "program": "/Users/josepablo13/Documents/José Pablo/TEC/Data Structure Course/MergeSort/LeetCode/build/Debug/outDebug"
+    }
+  ]
+}
